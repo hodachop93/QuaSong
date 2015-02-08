@@ -1,0 +1,6 @@
+c:\users\ho dac hop\documents\visual studio 2013\Projects\QuaSong\QuaSong\bin\Debug\QuaSong.exe.config
+c:\users\ho dac hop\documents\visual studio 2013\Projects\QuaSong\QuaSong\bin\Debug\QuaSong.exe
+c:\users\ho dac hop\documents\visual studio 2013\Projects\QuaSong\QuaSong\bin\Debug\QuaSong.pdb
+c:\users\ho dac hop\documents\visual studio 2013\Projects\QuaSong\QuaSong\obj\Debug\QuaSong.csprojResolveAssemblyReference.cache
+c:\users\ho dac hop\documents\visual studio 2013\Projects\QuaSong\QuaSong\obj\Debug\QuaSong.exe
+c:\users\ho dac hop\documents\visual studio 2013\Projects\QuaSong\QuaSong\obj\Debug\QuaSong.pdb
